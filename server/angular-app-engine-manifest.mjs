@@ -1,6 +1,6 @@
 
 export default {
-  basePath: '/student-app',
+  basePath: '/angular-dashboard',
   supportedLocales: {
   "en-US": ""
 },

@@ -1,10 +1,10 @@
 {
   "routes": {
-    "/student-app": {},
-    "/student-app/contact": {},
-    "/student-app/home": {},
-    "/student-app/inbox": {},
-    "/student-app/profile": {},
-    "/student-app/to-do-list": {}
+    "/angular-dashboard": {},
+    "/angular-dashboard/contact": {},
+    "/angular-dashboard/home": {},
+    "/angular-dashboard/inbox": {},
+    "/angular-dashboard/profile": {},
+    "/angular-dashboard/to-do-list": {}
   }
 }
