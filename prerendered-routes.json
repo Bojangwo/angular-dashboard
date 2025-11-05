@@ -1,0 +1,10 @@
+{
+  "routes": {
+    "/student-app": {},
+    "/student-app/contact": {},
+    "/student-app/home": {},
+    "/student-app/inbox": {},
+    "/student-app/profile": {},
+    "/student-app/to-do-list": {}
+  }
+}
